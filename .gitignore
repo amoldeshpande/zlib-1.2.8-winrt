@@ -1,0 +1,12 @@
+*.[oda]
+*.~
+*.swp
+tags
+gh-pages
+*.tests
+*.pyc
+win32/Zlib-WinRT/Intermediate/
+win32/Zlib-WinRT/Output/
+*.sdf
+*.suo
+win32/Zlib-WinRT/ipch/
